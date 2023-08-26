@@ -1,0 +1,51 @@
+.svg {
+  margin-right: 2rem;
+}
+.kk-logo {
+  height: 8rem;
+  margin-right: 2rem;
+}
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  grid-template-rows: 2fr 1fr 1fr 2fr ;
+  height: 86vh;
+  width: 80%;
+
+
+}
+.container{margin: 0%;}
+.big-container{display: flex; justify-content: center; height: 100vh;}
+.hello{grid-column: span 2; display: flex; align-items: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; justify-content: center; }
+
+.hobbies{grid-row: span 2;}
+
+#h1-hello{display: inline-block; font-size: 7rem; }
+.top-text{font-size: 1.6rem; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.about-me{font-size: 1.5rem;}
+.a-little{font-size: 2.5rem; }
+.web-img{width: 40rem; margin-left: 10rem;}
+.skills{margin-left: 7.20rem;}
+.projects{grid-column: span 2; height: 100vh; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;}
+.project-img{width: 45rem; border: 0.3rem solid black;}
+.mondrian-exp{display: inline-block;}
+.here-are{grid-column: span 2; text-align: center; font-size: xx-large; margin-top: 5rem; margin-bottom: 5rem;}
+.project-div{grid-column: span 2; height: 40rem;}
+.project-heading{margin-bottom: 2rem;}
+.skills-li{font-size: 1.5rem;}
+.skill-h{font-size: 2.5rem;}
+.about-exp{font-size: 1.5rem;}
+.project-container{display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; height: 100vh;}
+.project-img-{height: 15rem;}
+.contact{ margin-top: 5rem; width: 100%; text-align: center; font-size: 6rem; margin-bottom: 4rem;}
+.contact-container{display: grid; grid-template-columns: 1fr 1fr 1fr;}
+.contact-sub{height: 50vh;}
+.asd{text-align: center; font-size: 4rem;}
+.mail-text{text-align: center; font-size: 2rem;}
+.big-wıp{font-size: 10rem; text-align: center; margin-top: 5rem;}
+.dfg{display: flex; width: 100%; justify-content: center; height: 49vh;}
+.contact-list{list-style: none;}
+.contact-footer{width: 100vh;  height: 20vh;}
+.hjkd{height:43vh;}
+.my-5{display: block;}
+.contact-info{display: flex; justify-content: center;}
